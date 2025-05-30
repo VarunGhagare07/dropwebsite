@@ -5,7 +5,7 @@ import TShirtViewer from './TShirtViewer';
 function App() {
   return (
     <>
-      <>Hello</>
+      <>Hello from Sarthak</>
     </>
   );
 }
